@@ -1,0 +1,20 @@
+окт 11 10:53:59 fedora systemd[1]: Starting nginx.service - The nginx HTTP and reverse proxy server...
+окт 11 10:53:59 fedora nginx[7170]: nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+окт 11 10:53:59 fedora nginx[7170]: nginx: configuration file /etc/nginx/nginx.conf test is successful
+окт 11 10:53:59 fedora systemd[1]: Started nginx.service - The nginx HTTP and reverse proxy server.
+окт 11 10:54:15 fedora systemd[1]: Stopping nginx.service - The nginx HTTP and reverse proxy server...
+окт 11 10:54:15 fedora systemd[1]: nginx.service: Deactivated successfully.
+окт 11 10:54:15 fedora systemd[1]: Stopped nginx.service - The nginx HTTP and reverse proxy server.
+окт 11 10:54:15 fedora systemd[1]: Starting nginx.service - The nginx HTTP and reverse proxy server...
+окт 11 10:54:15 fedora nginx[7303]: nginx: [warn] conflicting server name "_" on 0.0.0.0:80, ignored
+окт 11 10:54:15 fedora nginx[7303]: nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+окт 11 10:54:15 fedora nginx[7303]: nginx: configuration file /etc/nginx/nginx.conf test is successful
+окт 11 10:54:15 fedora nginx[7305]: nginx: [warn] conflicting server name "_" on 0.0.0.0:80, ignored
+окт 11 10:54:15 fedora systemd[1]: Started nginx.service - The nginx HTTP and reverse proxy server.
+окт 11 12:04:04 fedora systemd[1]: Stopping nginx.service - The nginx HTTP and reverse proxy server...
+окт 11 12:04:04 fedora systemd[1]: nginx.service: Deactivated successfully.
+окт 11 12:04:04 fedora systemd[1]: Stopped nginx.service - The nginx HTTP and reverse proxy server.
+окт 11 12:04:04 fedora systemd[1]: Starting nginx.service - The nginx HTTP and reverse proxy server...
+окт 11 12:04:04 fedora nginx[10193]: nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+окт 11 12:04:04 fedora nginx[10193]: nginx: configuration file /etc/nginx/nginx.conf test is successful
+окт 11 12:04:04 fedora systemd[1]: Started nginx.service - The nginx HTTP and reverse proxy server.
